@@ -4,3 +4,4 @@
 !pip install wikipedia
 !pip install pywhatkit
 !pip install SpeechRecognition
+!pip install openai
